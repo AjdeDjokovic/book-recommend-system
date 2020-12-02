@@ -47,5 +47,5 @@
 	
 3. Self processing data
 
-  * If you want to process data by yourself, you need to configure Hadoop environment by yourself, and you need to change the data address string in the freqitemsetmain class in the apriori folder
-  * The confidence and support thresholds can be changed as needed
+	* If you want to process data by yourself, you need to configure Hadoop environment by yourself, and you need to change the data address string in the freqitemsetmain class in the apriori folder
+	* The confidence and support thresholds can be changed as needed
