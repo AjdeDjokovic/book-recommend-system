@@ -20,7 +20,7 @@
   * 如想自己处理数据，需要自行配置hadoop环境需重更改apriori文件夹中FreqItemSetMain类中数据地址字符串等
   * 可根据需要更改置信度、支持度阈值
 
-
+***
 ### Book recommendation system
 1. Overview
 
