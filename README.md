@@ -1,7 +1,7 @@
 ### 图书推荐系统
 1. 概述
 	* apriori文件夹为数据操作。hadoop进行数据处理，apriori算法获得频繁项集。
-	* 数据集 [http://www2.informatik.uni-freiburg.de/~cziegler/BX/](下载)
+	* 数据集 [download](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
 	* test文件夹为java web项目。maven管理
 	
 2. 安装
@@ -26,7 +26,7 @@
 
 	* The apriori folder is a data operation. Hadoop is used for data processing, and Apriori algorithm is used to obtain frequent itemsets.
 
-	* Data set [ http://www2.informatik.uni-freiburg.de/~cziegler/BX/ ](download)
+	* Data set [download](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
 
 	* The test folder is a Java Web project. Maven management
 
